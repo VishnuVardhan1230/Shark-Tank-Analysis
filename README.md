@@ -21,21 +21,6 @@ The objective is to transform raw startup data into meaningful business insights
 
 ---
 
-# 📊 Dashboard Preview
-
-> **(Add your dashboard screenshot here)**
-
-Example:
-
-```
-images/dashboard.png
-```
-
-```md
-![Dashboard](images/dashboard.png)
-```
-
----
 
 # 🎯 Objectives
 
@@ -265,9 +250,9 @@ Through this project I learned:
 
 **Vishnu Vardhan**
 
-📧 Email: your-email@example.com
+📧 Email: vankudothvishnuvardhan@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: https://www.linkedin.com/in/vankudoth-vishnu-vardhan-1068a1241/
 
 🐙 GitHub: https://github.com/VishnuVardhan1230
 
